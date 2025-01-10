@@ -36,10 +36,20 @@
     npm install
     npm run build
     ```
-4. **uTools 开发者工具** 中将 `dist/plugin.json` 加入到本地开发
+4. 在 **uTools** 中搜索 `开发者工具`，并点击图标打开
+    ![search-for-developer-tools](./images/search-for-developer-tools.png)
+    ![developer-tools-home-page](./images/developer-tools-home-page.png)
+
+5. 点击 `开发者工具` 左下角 `新建项目` 按钮，按照提示填写信息，创建新项目
+    ![developer-tools-new-project-page](./images/developer-tools-new-project-page.png)
+
+6. 点击 `选择工程「plugin.json」文件`，选择 `utools-paper-assistant/dist/plugin.json`，然后点击 `接入开发`
+    ![developer-tools-new-project-config-page1](./images/developer-tools-new-project-config-page1.png)
+    ![developer-tools-new-project-config-page2](./images/developer-tools-new-project-config-page2.png)
 
 ## 安装插件
-1. 在 **[Releases](https://github.com/luckyloogn/utools-paper-assistant/releases)** 页面下载 **upx** 离线安装文件到您的电脑
-2. **Ctrl+C** 复制下载的文件，然后 **Alt+空格** 唤出 **utools**，选 **插件应用安装** 即可
-
+1. 在 **[Releases](https://github.com/luckyloogn/utools-paper-assistant/releases)** 页面下载 `upxs` 离线安装文件到您的电脑
+2. `Ctrl + C` 复制下载的文件，然后 `Alt + 空格` 唤出 **utools**，点击 `安装插件应用` 图标，再点 `安装插件应用`，然后再点 `已知风险继续安装` 即可
     ![install-plugin](./images/install-plugin.png)
+    ![install-plugin-confirm1](./images/install-plugin-confirm1.png)
+    ![install-plugin-confirm2](./images/install-plugin-confirm2.png)
